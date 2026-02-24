@@ -1,13 +1,11 @@
-# VT_Certifications
-Certificates of me
 # Cloud & AI Certifications Portfolio
 
-This repository contains my professional certifications in Cloud Computing and Artificial Intelligence.
+This repository contains my professional certifications in Cloud Computing and Artificial Intelligence, with a primary focus on AWS technologies.
 
 ## AWS Certifications
-Foundational and advanced AWS cloud training programs.
+Certifications covering cloud fundamentals, infrastructure, security, and core AWS services.
 
 ## AWS AI Certifications
-Machine Learning and Artificial Intelligence focused certifications on AWS.
+Certifications focused on Machine Learning, Artificial Intelligence, and AI-driven solutions built on AWS.
 
-This portfolio reflects my continuous learning journey in Cloud and AI technologies.
+This portfolio represents my continuous learning journey in Cloud and AI technologies as I build strong foundational and practical expertise.
